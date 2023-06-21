@@ -7,9 +7,12 @@ p {
 }
 
 .points span {
-    color: red;
     font-weight: bold;
-    margin-top: 20px;
+    font-size: 1.1em;
+}
+
+.tip {
+    margin-bottom: 20px;
 }
 
 .tip span {
