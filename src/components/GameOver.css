@@ -1,0 +1,8 @@
+.gameOver h2 span {
+    color: #ecfa00;
+    font-size: 1.5em;
+}
+
+.gameOver button {
+    margin-top: 10px;
+}
